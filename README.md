@@ -1,6 +1,6 @@
 [![MasterHead](https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif)]
 <h3 align="center">Casual Backend Dev that does Professional things.</h3>
-(img align="right" alt="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif")
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/DimzPZMypFcAAAAd/laptop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maoridi&label=Profile%20views&color=0e75b6&style=flat" alt="maoridi" /> </p>
 - 🔭 I’m currently working on **autoPcBuilder**
 
