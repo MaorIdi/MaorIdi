@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maor</h1>
-<h3 align="center">Casual Backend Dev that does Professional things.</h3>
+<h3 align="center">Casual Full Stack Dev that does Professional things.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maoridi&label=Profile%20views&color=0e75b6&style=flat" alt="maoridi" /> </p>
 
