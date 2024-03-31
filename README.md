@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maoridi&label=Profile%20views&color=0e75b6&style=flat" alt="maoridi" /> </p>
 
-- 🔭 I’m currently working on <a href="https://maoridi.com">maoridi.com</a>
+- 🔭 I’m currently working on <a href="https://maoridi.com" target="_blank">maoridi.com</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
