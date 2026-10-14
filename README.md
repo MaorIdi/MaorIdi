@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 I’m currently working on <a href="https://maoridi.com" target="_blank">maoridi.com</a>
+- 🔭 I’m currently working on <a href="https://yeshavoda.co.il" target="_blank">yeshavoda.co.il</a>
 - ⚙️ Architecting CI/CD pipelines, provisioning infrastructure as code (Terraform/AWS), and managing container orchestration (Kubernetes, k3d, Helm).
 - 🚀 Leveraging a strong foundation in QA Automation to bring a test-driven, highly reliable approach to DevOps and infrastructure.
 - 🐧 Enthusiast for system optimization, running Arch Linux with Hyprland on Wayland for a heavily customized daily workflow.
