@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maoridi&label=Profile%20views&color=0e75b6&style=flat" alt="maoridi" /> </p>
 
-- 🔭 I’m currently working on <a href="https://maoridi.com" target="_blank">maoridi.com</a>
+- 🔭 I’m currently working on <a href="[https://yeshavoda.co.il/]" target="_blank">maoridi.com</a>
 - ⚙️ Architecting CI/CD pipelines, provisioning infrastructure as code (Terraform/AWS), and managing container orchestration (Kubernetes, k3d, Helm).
 - 🚀 Leveraging a strong foundation in QA Automation to bring a test-driven, highly reliable approach to DevOps and infrastructure.
 - 🐧 Enthusiast for system optimization, running Arch Linux with Hyprland on Wayland for a heavily customized daily workflow.
